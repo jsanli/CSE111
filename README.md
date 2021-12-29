@@ -1,2 +1,2 @@
 # CSE111
-Projects done for UCSC's Advanced Programming Projects. Much of the work done for these projects is cumulative, hence why on my website there is only one link to lead you to the entirety of the repository. The majority of the programs handle multithreading, allocating to different cores, and server client architecture on a UCSC teaching server.
+Projects done for UCSC's Advanced Programming Projects. Contains various assignments revolving around, the use of different programming languages, testing if the bounds of a shapes are completely contained by the bounds of another shape, and the useage of cores; multithreading; and client/server architecture
